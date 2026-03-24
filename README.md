@@ -1,4 +1,14 @@
-Nikhil Sai Ankilla!!!
-making stuff, breaking stuff, learning stuff.
+# I'm Nikhil Sai Ankilla
 
-https://nikhilsai.in | open to work
+**Making stuff • Breaking stuff • Learning stuff**
+
+I build tools that help developers move faster. Currently obsessed with the "Ship in Days" philosophy.
+
+### Projects
+* **[Ship In Days](https://shipindays.nikhilsai.in)** — CLI to scaffold SaaS apps in minutes.
+* **[MintConvert](https://mintconvert.com)** — The simplest way to convert anything.
+
+### Connect
+[nikhilsai.in](https://nikhilsai.in) • [Twitter](https://x.com/itzznikhilsai) • [LinkedIn](https://linkedin.com/in/nikhilsaiankilla)
+
+*Done is better than perfect.*
