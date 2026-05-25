@@ -16,6 +16,9 @@ Currently obsessed with:
 
 ## 🚀 Featured Projects
 
+### [Rabbit AI](https://rabbitai.nikhilsai.in)
+AI code reviews that actually understand your codebase.
+
 ### [Ship In Days](https://shipindays.nikhilsai.in)
 A developer-focused SaaS starter platform & CLI to scaffold production-ready apps in minutes instead of weeks.
 
