@@ -1,41 +1,33 @@
 # Hey, I'm Nikhil Sai Ankilla 👋
 
-### Full Stack Developer building internet products from ideas to production.
+**Full-Stack Developer & Indie Hacker** building internet products from 0 to production.
 
-I love creating products that feel fast, useful, and slightly addictive.  
-Most of my time goes into shipping SaaS tools, experimenting with AI workflows, and building systems that help developers and creators move faster.
-
-Currently obsessed with:
-- shipping products ridiculously fast
-- clean UI/UX
-- AI-powered workflows
-- scalable full-stack architecture
-- turning random ideas into real products
+I build fast, useful tools for developers, creators, and founders. Most of my time goes into shipping SaaS, automating workflows with AI, and turning ideas into live software.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### [Rabbit AI](https://rabbitai.nikhilsai.in)
-AI code reviews that actually understand your codebase.
+* **[Hyd Startups Map](https://hyderabadstartupsmap.lol)** `23k+ users`  
+  Interactive discovery map tracking Hyderabad's growing startup ecosystem.
 
-### [Ship In Days](https://shipindays.nikhilsai.in)
-A developer-focused SaaS starter platform & CLI to scaffold production-ready apps in minutes instead of weeks.
+* **[Rabbit AI](https://rabbitai.nikhilsai.in)**  
+  Context-aware AI code reviews that actually understand your entire codebase.
 
-### [MintConvert](https://mintconvert.com)
-AI-powered content repurposing platform that transforms long-form content into short-form social-ready content.
+* **[Ship In Days](https://shipindays.nikhilsai.in)**  
+  Production-ready Next.js SaaS starter and CLI to scaffold apps in minutes.
 
-### [Milestone Studio](https://milestonestudio.nikhilsai.in)
-Create beautiful milestone cards for GitHub stars, followers, subscribers, launches, and internet wins — instantly.
+* **[MintConvert](https://mintconvert.com)**  
+  AI-powered content repurposing engine turning long-form media into short-form assets.
+
+* **[Milestone Studio](https://milestonestudio.nikhilsai.in)**  
+  Instant milestone graphic generator for product launches, stars, and follower counts.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-```ts
-const stack = {
-  frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-  backend: ["Node.js", "PostgreSQL", "Drizzle", "REST APIs"],
-  infra: ["Docker", "AWS", "Vercel", "CI/CD"],
-  interests: ["AI", "Developer Tools", "SaaS", "Automation"]
-}
+* **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+* **Backend:** Node.js · PostgreSQL · Drizzle ORM · REST / tRPC  
+* **Infra & DevOps:** Docker · AWS · Vercel · GitHub Actions  
+* **Focus:** AI Agents · LLM Workflows · Developer Tooling · SaaS
