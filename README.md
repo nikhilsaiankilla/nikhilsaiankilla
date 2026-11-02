@@ -8,7 +8,7 @@ I build fast, useful tools for developers, creators, and founders. Most of my ti
 
 ### 🚀 Featured Projects
 
-* **[Hyd Startups Map](https://hyderabadstartupsmap.lol)** `23k+ users`  
+* **[Hyd Startups Map](https://hyderabadstartupsmap.lol)** `30k+ users`  
   Interactive discovery map tracking Hyderabad's growing startup ecosystem.
 
 * **[Rabbit AI](https://rabbitai.nikhilsai.in)**  
